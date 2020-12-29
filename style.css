@@ -1,0 +1,41 @@
+h1 {
+    color: orangered;
+}
+
+h3 {
+    color: red; 
+}
+
+h2 {
+    color: aqua;
+}
+
+
+* {
+border: solid;
+}
+
+.header{
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.project{
+    background-color: teal;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: tomato;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.main{
+    background-color: violet;
+    display: flex;
+    justify-content: space-evenly;
+}
